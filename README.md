@@ -1,4 +1,4 @@
 # demo
 This is my first git reposatory
 <br>
-Author :- Sujal Chodvadiya
+Author :- Sujal (IIIT KOTTAYAM)
